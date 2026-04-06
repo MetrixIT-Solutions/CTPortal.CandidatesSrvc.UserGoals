@@ -1,0 +1,11 @@
+{
+  "appName": "CT(Candidates Tracking) Portal End Users - B2B End Users / Candidates / Applicants Consultant Goals API Service",
+  "license": "Copyright (C) SkillworksIT Solutions Pvt Ltd - All Rights Reserved. Unauthorized copying of this file, via any medium is strictly prohibited. Proprietary and confidential. Written by Skillworks IT <contact@skillworksit.com>, Aug 2024",
+
+  "cuType": "End User",
+
+  "uniq": {
+    "gtErr": "Record already exists with this Goal type",
+    "gtlErr": "Record already exists with this Goal title"
+  }
+}

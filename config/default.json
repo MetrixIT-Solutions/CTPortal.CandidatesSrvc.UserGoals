@@ -1,0 +1,24 @@
+{
+    "appName": "CT(Candidates Tracking) Portal End Users - B2B End Users / Candidates / Applicants Consultant Goals API Service",
+    "license": "Copyright (C) SkillworksIT Solutions Pvt Ltd - All Rights Reserved. Unauthorized copying of this file, via any medium is strictly prohibited. Proprietary and confidential. Written by Skillworks IT <contact@skillworksit.com>, Aug 2024",
+    "mySalt": "90889ff4575280f5af56c1ca1aab4ae7",
+    "mySaltLen": 32,
+
+    "logName": "ctpEuUserGoalsApiLogger",
+    "logFilesPath": "logs/ctpeuusergoals.api.log",
+    "logDtPattern": "YYMMDD",
+    "logFilesLevel": "debug",
+
+    "mobSsnExprType": "days",
+    "mobSsnExpr": 90,
+    "webSsnExprType": "days",
+    "webSsnExpr": 3,
+    "otpSsnExprType": "minutes",
+    "otpSsnExpr": 10,
+
+    "chars": "abcdefghijklmnopqrstuvwxyz",
+
+    "collB2BEuGoals": "b2b_eu_goals",
+    "collB2BEuGoalsLcs": "b2b_eu_goals_lcs",
+    "collB2BEuGoalsReviewsLcs": "b2b_eu_goals_rvwslcs"
+}
